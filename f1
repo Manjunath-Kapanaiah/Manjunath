@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 this is to test the MERGING CONFLICTS ...
 
@@ -6,4 +7,7 @@ this files is in master branch with name f1...`
 this if the file for merge conflict....
 
 this file is from TEST BRANCH
+=======
+editing a file to change data - V1
+>>>>>>> 90efbc3c86ea55cc4c0286715f685b52684eb981
 
